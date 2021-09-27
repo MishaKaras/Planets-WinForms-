@@ -1,0 +1,10 @@
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\bin\Debug\PlanetsHW1.0.exe.config
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\bin\Debug\PlanetsHW1.0.exe
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\bin\Debug\PlanetsHW1.0.pdb
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1.0.csproj.AssemblyReference.cache
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1._0.Form1.resources
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1._0.Properties.Resources.resources
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1.0.csproj.GenerateResource.cache
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1.0.csproj.CoreCompileInputs.cache
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1.0.exe
+C:\Users\Mikle\source\repos\PlanetsHW1.0\PlanetsHW1.0\obj\Debug\PlanetsHW1.0.pdb
